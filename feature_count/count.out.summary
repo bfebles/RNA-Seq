@@ -1,0 +1,15 @@
+Status	mapping/bam/IgG_471_1_S1_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_471_2_S2_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_471_3_S3_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_472_1_S4_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_472_2_S5_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_472_3_S6_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_473_1_S7_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_473_2_S8_R1_001.qc.fastq.sorted.bam	mapping/bam/IgG_473_3_S9_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_488_1_S10_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_488_2_S11_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_488_3_S12_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_489_1_S13_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_489_3_S14_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_490_1_S15_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_490_2_S16_R1_001.qc.fastq.sorted.bam	mapping/bam/Treatment_490_3_S17_R1_001.qc.fastq.sorted.bam
+Assigned	15769892	10612248	25288786	22718628	38936612	19647670	22579452	35712160	24754521	24172182	25528177	24052332	40235203	15297639	20692546	30334	24969295
+Unassigned_Unmapped	400518	253160	512184	532108	998441	453561	526910	884858	487220	585704	507474	16434299	846482	364256	510985	893	557409
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	6022932	4487799	9386010	8312813	14931204	7439692	8060430	13330460	8887287	9922950	10055887	10567942	15496612	5633430	7525030	11312	9048854
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1793637	850836	2821918	3028463	5327178	2209167	3056098	5122021	3203217	2575800	2399109	3161899	4433040	2129380	2690090	3481	3062912
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	578382	401668	886635	806680	1422519	707032	791545	1246089	844415	924083	911880	930001	1397505	528949	705077	1040	849093
