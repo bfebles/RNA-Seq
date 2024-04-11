@@ -18,6 +18,7 @@ library(tidyverse)
 
 ## Prepare data for DESeq2 object
 ```{r}
+
 # import read counts data from featureCounts
 countData<-read.csv('feature_count/featurecount.csv',header = TRUE, row.names = 1)
 
@@ -30,6 +31,7 @@ dim(countData)
 countData <- countData%>%
   dplyr::select(-Chr,-Start,-End,-Strand,-Length)
 ```
+
 ```{r}
 #filter out genes that has less than total of 50 mapped reads to avoid noise in further analysis
 countData <- countData[rowSums(countData[,-1]) >=50,]
@@ -51,7 +53,6 @@ dds<-DESeqDataSetFromMatrix(countData , colData, ~condition)
 
 #run DESeq
 dds <- DESeq(dds)
-
 ```
 ## QC
 ```{r}
